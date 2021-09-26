@@ -1,2 +1,2 @@
 # data_analysis
-just for test
+recording for daily learning

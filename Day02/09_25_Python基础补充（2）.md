@@ -107,7 +107,7 @@ datetime.strptime('20210925', '%Y%m%d')
 
 
 
-![5.png](attachment:5.png)
+![5.png](https://github.com/ta00231/data_analysis/blob/main/picture/5.png)
 格式化对应表格
 
 ## 4、⼆分搜索和维护已排序的列表

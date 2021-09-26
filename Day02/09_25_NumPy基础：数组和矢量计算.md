@@ -407,7 +407,7 @@ np.arange(15)
 
 
 
-![6.png](attachment:6.png)
+![6.png](https://github.com/ta00231/data_analysis/blob/main/picture/6.png)
 其他详细函数
 
 
@@ -1849,6 +1849,6 @@ arr
 
 
 
-![926_7.png](attachment:926_7.png)
+![926_7.png](https://github.com/ta00231/data_analysis/blob/main/picture/926_7.png)
 
-![926_8.png](attachment:926_8.png)
+![926_8.png](https://github.com/ta00231/data_analysis/blob/main/picture/926_8.png)
